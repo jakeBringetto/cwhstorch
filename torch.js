@@ -7,3 +7,4 @@ document.body.addEventListener('mousemove',function(e){
   console.log(top);
   console.log(left);
 });
+
